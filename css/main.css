@@ -7,3 +7,4 @@ ul { padding: 0; margin: 0; list-style: none; }
 nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
+.container{margin-top: 0;margin-bottom: 0;margin-right: auto;margin-left: auto;max-width: 1170px;}
